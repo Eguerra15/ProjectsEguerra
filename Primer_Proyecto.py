@@ -1,0 +1,1 @@
+print("La cerveceria se llamara '" + input("¿Que fruta te gusta?")+" "+input("¿Que color te gusta?")+"'")
